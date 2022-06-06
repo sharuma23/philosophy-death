@@ -1,0 +1,92 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+body {
+  font-family: 'Arial';
+  background-color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Arial';
+  font-weight: normal;
+  background-color: black;
+}
+
+.remark-code,
+.remark-inline-code {
+  font-family: 'Ubuntu Mono';
+}
+
+.title-slide {
+  color: white;
+  background-color: black;
+}
+
+.bg-black-white-text {
+  color: white;
+  background-color: black;
+}
+
+.first-bands {
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+}
+
+.left-column {
+    width: 50%;
+    float: left;
+  }
+
+.right-column {
+  width: 75%;
+  float: right;
+  padding-top: 1em;
+}
+
+.red-text {
+    color:red;
+    font-weight: bold;
+  }
+
+.pink-text {
+  color: #FFA8D6;
+  font-weight: bold;
+}
+
+.indigo-text {
+  color: #5A57FD;
+  font-weight: bold;
+  background-color: black;
+}
+
+.green-text {
+  color: #5ae111;
+  font-weight: bold;
+  background-color: black;
+}
+
+.maroon-text{
+  color: #a0221f;
+  font-weight: bold;
+  background-color: black;
+
+}
+
+.image-right {
+  position: absolute;
+  right: 100px;
+  bottom: 40px;
+}
+ 
+.small-box {
+  width: 65%;
+  padding: 1em;
+}
+
