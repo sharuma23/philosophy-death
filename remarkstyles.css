@@ -66,6 +66,12 @@ h6 {
   background-color: black;
 }
 
+.white-text {
+  color: #ffffff;
+  font-weight: bold;
+  background-color: black;
+}
+
 .green-text {
   color: #5ae111;
   font-weight: bold;
@@ -74,6 +80,13 @@ h6 {
 
 .maroon-text{
   color: #a0221f;
+  font-weight: bold;
+  background-color: black;
+
+}
+
+.purple-text{
+  color: #86139a;
   font-weight: bold;
   background-color: black;
 
